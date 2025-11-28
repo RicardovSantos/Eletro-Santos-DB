@@ -12,18 +12,16 @@ INNER JOIN pedidos p
 ON 
 c.id_cliente = p.id_pedido; 
 
-SELECT 
+SELECT
+    p.valor_pagamento,
+    p.metodo_pagamento,
+    p.status_pagamento,
+    p.transacao_gateway_id,
+    ped.data_pedido,
     c.nome,
-    p.status_pedido,
-    p.valor_total,
-    i.quantidade,
-    prod.nome_produto,  -- Corrigido alias
-    prod.preco,
-    prod.preco_custo
-FROM clientes c
-INNER JOIN pedidos p 
-    ON c.id_cliente = p.id_cliente          -- Liga Cliente ao Pedido
-INNER JOIN itens_pedido i 
-    ON p.id_pedido = i.id_pedido            -- Liga Pedido aos Itens (tabela do meio)
-INNER JOIN produtos prod 
-    ON i.id_produto = prod.id_produto;      -- Liga Itens ao Produto
+    c.telefone
+FROM pagamentos p
+JOIN pedidos ped
+    ON p.id_pedido = ped.id_pedido
+JOIN clientes c
+    ON c.id_cliente = ped.id_cliente;
