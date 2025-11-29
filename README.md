@@ -3,13 +3,10 @@
 <h3>Projeto acadêmico - Faculdade Cruzeiro do Sul </h3>
 <div style="text-align: center" >
   <img src="img/logo.jpg" whealt="Logo Eletro Santos" width="200px;
-    
-<br>
-<br>
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-<br>
- ![fire](https://custom-icon-badges.demolab.com/badge/issue-orange.svg?logo=issue&logoColor=fff)
+
+![fire](https://custom-icon-badges.demolab.com/badge/issue-orange.svg?logo=issue&logoColor=fff)
 ![fire](https://custom-icon-badges.demolab.com/badge/fire-red.svg?logo=fire&logoColor=fff)
 ![Status do Projeto](https://img.shields.io/badge/status-em%20Desenvolvimento-green)
 </div>
