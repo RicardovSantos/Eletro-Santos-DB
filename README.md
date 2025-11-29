@@ -1,6 +1,5 @@
 <div align="center">
-<h1 style="color:20B2AA;">
-Sistema de gestão de e-commerce</h1>
+<h1 ><font color= "20B2AA">Sistema de gestão de e-commerce</font></h1>
 <h3>Projeto acadêmico - Faculdade Cruzeiro do Sul </h3>
 <div style="text-align: center" >
   <img src="img/logo.jpg" whealt="Logo Eletro Santos" width="200px;
@@ -57,13 +56,12 @@ O público-alvo são consumidores de tecnologia em geral, e o propósito princip
 
 ## Instalação
 
-Para criação do banco de dados Eletro Santos
-
- Todas as tabelas clientes, enderecos, papeis, categorias, marcas, fornecedores, imagens, produtos, carrinhos, funcionarios, pedidos, imagens_produto, itens_pedido, pagamentos, envios.<br>
 <i>Total: 15 tabelas.</i>
+As tabelas são clientes, enderecos, papeis, categorias, marcas, fornecedores, imagens, produtos, carrinhos, funcionarios, pedidos, imagens_produto, itens_pedido, pagamentos, envios.<br>
+
 
  <ul align="left">
- INSTRUÇÕES DE INSTALAÇÃO:
+ <b>COMO INSTALAR:</b>
  <li>1 - Copie o código SQL que está aqui <a href="scripts_create_tables.sql">scripts_create_tables</a>
  <li>2 - Cole no editor do seu Aplicativo SQL <i> ex: MySQL Workbench, SQLite estudio ou PGAdmin</i>.
  <li>3 - Selecione tudo e <b>Excute o script SQL,</b> (seu programa ira criar o esquema com todas as tabelas).
