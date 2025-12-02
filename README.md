@@ -69,7 +69,7 @@ As tabelas são clientes, enderecos, papeis, categorias, marcas, fornecedores, i
  <li>3 - Selecione tudo e <b>Excute o script SQL,</b> (seu programa ira criar o esquema com todas as tabelas).
  </ul>
 
- ## SCRIPTS
+ ## Scripts
 
  <ul align="left">
 <li>INSERTS: aqui <a href="scripts_inserts.sql" >scripts_inserts </a>mesmo procedimento (COPIAR,COLAR no EDITOR,EXECUTAR)</li>
@@ -79,7 +79,7 @@ As tabelas são clientes, enderecos, papeis, categorias, marcas, fornecedores, i
 </ul>
 
 
-## PRINTS
+## Prints
 
 Prints aki:  <a href="prints/">  CLIQUE! </a>
 
