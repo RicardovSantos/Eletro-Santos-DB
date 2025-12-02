@@ -71,7 +71,6 @@ As tabelas são clientes, enderecos, papeis, categorias, marcas, fornecedores, i
 
  <ul align="left">
 <li>INSERTS: aqui <a href="scripts_inserts.sql" >scripts_inserts </a>mesmo procedimento (COPIAR,COLAR no EDITOR,EXECUTAR)</li>
-<<<<<<< HEAD
 <li>UPDATES:   aqui <a href="scripts_update.sql" > scripts_update </a>mesmo procedimento (COPIAR,COLAR no EDITOR,EXECUTAR)</li>
 <li>SELECTS:  aqui <a href="scripts_select.sql" >scripts_select </a>mesmo procedimento (COPIAR,COLAR no EDITOR,EXECUTAR)</li>
 <li>DELETE:  aqui <a href="scripts_delete.sql" >scripts_delete </a>mesmo procedimento (COPIAR,COLAR no EDITOR,EXECUTAR)</li>
@@ -81,8 +80,5 @@ As tabelas são clientes, enderecos, papeis, categorias, marcas, fornecedores, i
 ## PRINTS
 
 Prints aki:  <a href="prints/">  CLIQUE! </a>
-=======
-<li>UPDATES:   aqui <a href="#" >## </a>mesmo procedimento (COPIAR,COLAR no EDITOR,EXECUTAR)</li>
-<li>CONSULT:  aqui <a href="#" >## </a>mesmo procedimento (COPIAR,COLAR no EDITOR,EXECUTAR)</li>
-<li>DELET:  aqui <a href="#" >## </a>mesmo procedimento (COPIAR,COLAR no EDITOR,EXECUTAR)</li>
->>>>>>> dc9a1e55d54137e38025ed72447e57a87abcf8da
+
+
