@@ -3,6 +3,8 @@
 <h3>Projeto acadêmico - Faculdade Cruzeiro do Sul </h3>
 <div style="text-align: center" >
   <img src="img/logo.jpg" whealt="Logo Eletro Santos" width="200px;
+    
+<br>
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
