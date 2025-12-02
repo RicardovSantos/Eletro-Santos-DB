@@ -1,13 +1,12 @@
 <div align="center">
-<h1 style="color:20B2AA;">
-Sistema de gestão de e-commerce</h1>
+<h1 ><font color= "20B2AA">Sistema de gestão de e-commerce</font></h1>
 <h3>Projeto acadêmico - Faculdade Cruzeiro do Sul </h3>
 <div style="text-align: center" >
   <img src="img/logo.jpg" whealt="Logo Eletro Santos" width="200px;
-  
-<br> ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
- ![fire](https://custom-icon-badges.demolab.com/badge/issue-orange.svg?logo=issue&logoColor=fff)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+![fire](https://custom-icon-badges.demolab.com/badge/issue-orange.svg?logo=issue&logoColor=fff)
 ![fire](https://custom-icon-badges.demolab.com/badge/fire-red.svg?logo=fire&logoColor=fff)
 ![Status do Projeto](https://img.shields.io/badge/status-em%20Desenvolvimento-green)
 </div>
@@ -57,13 +56,12 @@ O público-alvo são consumidores de tecnologia em geral, e o propósito princip
 
 ## Instalação
 
-Para criação do banco de dados Eletro Santos
-
- Todas as tabelas clientes, enderecos, papeis, categorias, marcas, fornecedores, imagens, produtos, carrinhos, funcionarios, pedidos, imagens_produto, itens_pedido, pagamentos, envios.<br>
 <i>Total: 15 tabelas.</i>
+As tabelas são clientes, enderecos, papeis, categorias, marcas, fornecedores, imagens, produtos, carrinhos, funcionarios, pedidos, imagens_produto, itens_pedido, pagamentos, envios.<br>
+
 
  <ul align="left">
- INSTRUÇÕES DE INSTALAÇÃO:
+ <b>COMO INSTALAR:</b>
  <li>1 - Copie o código SQL que está aqui <a href="scripts_create_tables.sql">scripts_create_tables</a>
  <li>2 - Cole no editor do seu Aplicativo SQL <i> ex: MySQL Workbench, SQLite estudio ou PGAdmin</i>.
  <li>3 - Selecione tudo e <b>Excute o script SQL,</b> (seu programa ira criar o esquema com todas as tabelas).
@@ -73,6 +71,7 @@ Para criação do banco de dados Eletro Santos
 
  <ul align="left">
 <li>INSERTS: aqui <a href="scripts_inserts.sql" >scripts_inserts </a>mesmo procedimento (COPIAR,COLAR no EDITOR,EXECUTAR)</li>
+<<<<<<< HEAD
 <li>UPDATES:   aqui <a href="scripts_update.sql" > scripts_update </a>mesmo procedimento (COPIAR,COLAR no EDITOR,EXECUTAR)</li>
 <li>SELECTS:  aqui <a href="scripts_select.sql" >scripts_select </a>mesmo procedimento (COPIAR,COLAR no EDITOR,EXECUTAR)</li>
 <li>DELETE:  aqui <a href="scripts_delete.sql" >scripts_delete </a>mesmo procedimento (COPIAR,COLAR no EDITOR,EXECUTAR)</li>
@@ -82,3 +81,8 @@ Para criação do banco de dados Eletro Santos
 ## PRINTS
 
 Prints aki:  <a href="prints/">  CLIQUE! </a>
+=======
+<li>UPDATES:   aqui <a href="#" >## </a>mesmo procedimento (COPIAR,COLAR no EDITOR,EXECUTAR)</li>
+<li>CONSULT:  aqui <a href="#" >## </a>mesmo procedimento (COPIAR,COLAR no EDITOR,EXECUTAR)</li>
+<li>DELET:  aqui <a href="#" >## </a>mesmo procedimento (COPIAR,COLAR no EDITOR,EXECUTAR)</li>
+>>>>>>> dc9a1e55d54137e38025ed72447e57a87abcf8da
